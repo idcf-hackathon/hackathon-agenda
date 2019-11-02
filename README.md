@@ -6,7 +6,8 @@
 
 TailwindTraders后台应用使用了以下应用组件提供一套微服务架构的应用模型，运行在微软云Azure平台之上。
 
-具体请参考：<https://github.com/idcf-hackathon/TailwindTraders-Backend>
+- 后端系统 <https://github.com/idcf-hackathon/TailwindTraders-Backend>
+- 前端系统 <https://github.com/idcf-hackathon/TailwindTraders-Website>
 
 ## 当前生产环境入口
 
