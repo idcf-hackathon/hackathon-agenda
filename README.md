@@ -11,12 +11,12 @@ TailwindTraders后台应用使用了以下应用组件提供一套微服务架�
     - A组：<https://github.com/idcf-hackathon/TailwindTraders-Backend-HackA>
     - B组：<https://github.com/idcf-hackathon/TailwindTraders-Backend-HackB>
     - C组：<https://github.com/idcf-hackathon/TailwindTraders-Backend-HackC>
-  - 部署说明级操作手册：<Documents/IDCF-TailwindTraders-Backend-Readme.pdf>
+  - [部署说明级操作手册](Documents/IDCF-TailwindTraders-Backend-Readme.pdf)
 
 - 前端系统
   - 代码库 <https://github.com/idcf-hackathon/TailwindTraders-Website>
     - 各小组自行fork到自己的Github账号中
-  - 部署说明级操作手册：<Documents/IDCF-TailwindTraders-Web-Readme.pdf>
+  - [部署说明级操作手册](Documents/IDCF-TailwindTraders-Web-Readme.pdf)
 
 ## 当前生产环境入口
 
