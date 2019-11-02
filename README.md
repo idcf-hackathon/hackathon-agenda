@@ -17,6 +17,7 @@ TailwindTraders后台应用使用了以下应用组件提供一套微服务架�
 
 全部采用微软Azure DevOps平台管理从需求，项目，任务，看板，代码和流水线的端到端持续交付流水线。
 
-<https://dev.azure.com>
+- Azure DevOps 入口 <https://dev.azure.com>
+- Azure 云管理控制台入口 <https://portal.azure.com>
 
 @IDCF
