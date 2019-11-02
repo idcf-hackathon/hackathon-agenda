@@ -20,7 +20,7 @@ TailwindTraders后台应用使用了以下应用组件提供一套微服务架�
 
 ## 当前生产环境入口
 
-<https://tailwindtradersnoaq3pqjjes5s.azurewebsites.net/>
+<https://td.devopshub.cn/>
 
 ## DevOps工具链
 
